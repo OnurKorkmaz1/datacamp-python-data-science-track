@@ -1,4 +1,4 @@
-1![Design Blocks](https://cs.utdallas.edu/files/2023/05/DAtA-science-KDD-article-header-GettyImages-1132986308-scaled-1.webp)
+![Design Blocks](https://cs.utdallas.edu/files/2023/05/DAtA-science-KDD-article-header-GettyImages-1132986308-scaled-1.webp)
 
 # Data Camp: Data Scientist with Python 🤖
  All code and exercises are stored in this repository.
