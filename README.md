@@ -1,4 +1,4 @@
-![Design Blocks](https://cs.utdallas.edu/files/2023/05/DAtA-science-KDD-article-header-GettyImages-1132986308-scaled-1.webp)
+1![Design Blocks](https://cs.utdallas.edu/files/2023/05/DAtA-science-KDD-article-header-GettyImages-1132986308-scaled-1.webp)
 
 # Data Camp: Data Scientist with Python 🤖
  All code and exercises are stored in this repository.
@@ -22,7 +22,4 @@
   - [Statistical Thinking in Python (Part 1)]
   - [Statistical Thinking in Python (Part 2)]
   - [Supervised Learning with scikit-learn]
-  - [Machine Learning with the Experts: School Budgets]
-  - [Unsupervised Learning in Python]
-  - [Deep Learning in Python]
-  - [Network Analysis in Python (Part 1)]
+  - [Machine Learning with the Experts
