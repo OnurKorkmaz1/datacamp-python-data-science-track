@@ -2,7 +2,13 @@
 
 # Data Camp: Data Scientist with Python 🤖
  All code and exercises are stored in this repository.
+<!-- Add buttons here -->
 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
 ## 🎮 List of Courses
 
@@ -25,29 +31,6 @@
   - [Machine Learning with the Experts
 
 
-
-<!-- Add banner here -->
-![Banner](./header.png)
-
-# Project Title
-
-<!-- Add buttons here -->
-
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-
-<!-- Remove this note if you plan to copy this README -->
-
-> **Note**: This was a three-year-old, un-updated repository and didn't necessarily reflect what I think a GitHub README should look like.
->
-> But it still receives a lot of likes and stars, so I thought it was time to update it.
->
-> If you are looking for the old version, you can find it [here](https://github.com/navendu-pottekkat/awesome-readme/tree/a3a427abfdfc8567a3565012bcdf10c3a3f938ca).
->
-> This guide is for small open source projects without dedicated websites to provide extensive documentation and just need a README to help users use the project.
 
 Here is an [empty template](./README-template.md) you can reuse.
 
