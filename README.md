@@ -2,13 +2,14 @@
 
 # Data Camp: Data Scientist with Python 🤖
  All code and exercises are stored in this repository.
+ 
 <!-- Add buttons here -->
-
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 ![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 ![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+Here is an [empty template](./README-template.md) you can reuse.
 
 ## 🎮 List of Courses
 
@@ -32,7 +33,7 @@
 
 
 
-Here is an [empty template](./README-template.md) you can reuse.
+
 
 <!-- Describe your project in brief -->
 
